@@ -1,7 +1,6 @@
 namespace QSharp-First-Quantum-App {
     open Microsoft.Quantum.Canon;
-    open Microsoft.Quantum.Intrinsic;
-    
+    open Microsoft.Quantum.Intrinsic;    
 
     @EntryPoint()
     operation SayHello() : Unit {
